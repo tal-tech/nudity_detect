@@ -1,0 +1,1 @@
+nudity_detect/models/parse_body_tf_GES_v2.0.0.pb http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fnudity_detect%2Fmodels%2Fparse_body_tf_GES_v2.0.0.pb?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1696928584&Signature=q%2F0OhWbfqtbj2KwohPnOSuDbMYo%3D
